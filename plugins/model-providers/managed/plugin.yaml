@@ -1,0 +1,5 @@
+name: managed-provider
+kind: model-provider
+version: 1.0.0
+description: Hairball Portal
+author: Hairball

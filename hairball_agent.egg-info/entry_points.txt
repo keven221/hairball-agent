@@ -1,0 +1,4 @@
+[console_scripts]
+hairball = hairball_cli.main:main
+hairball-acp = acp_adapter.entry:main
+hairball-agent = run_agent:main
